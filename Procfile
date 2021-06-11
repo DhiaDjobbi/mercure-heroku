@@ -1,0 +1,1 @@
+web: ./mercure -k "test" -c '*' -p '*' -a :$PORT -D -X
